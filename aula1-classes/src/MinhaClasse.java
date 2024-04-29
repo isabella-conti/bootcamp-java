@@ -16,6 +16,8 @@ public static void main(String[] args) {
     //manipulação->mudou o valor//
     anoFabricacao = 2020;
 
+    System.out.print (anoFabricacao);
+
 }
 
 }
